@@ -1,0 +1,18 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /home/it/Desktop/vivado/Vivado_2019_setup/Xilinx/Vivado/Vivado/2019.1/bin/unwrapped/lnx64.o/xelab -wto 1befc843ee364eba9a503443ca4ee86c --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_CircuitsDesign_Task2_behav xil_defaultlib.tb_CircuitsDesign_Task2 xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "/home/it/Chip_Design/CommonCore/DigitalDesign/PracticeExam/PracticeExam.srcs/sources_1/new/CircuitsDesign_Task2.sv" Line 1. Module CircuitsDesign_Task2 doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.DFF
+Compiling module xil_defaultlib.ShiftRegister_5bit
+Compiling module xil_defaultlib.FA
+Compiling module xil_defaultlib.counter
+Compiling module xil_defaultlib.CircuitsDesign_Task2
+Compiling module xil_defaultlib.tb_CircuitsDesign_Task2
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_CircuitsDesign_Task2_behav

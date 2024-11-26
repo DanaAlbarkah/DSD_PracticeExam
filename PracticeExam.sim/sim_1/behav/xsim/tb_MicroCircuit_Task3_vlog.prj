@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../PracticeExam.srcs/sources_1/new/Adder_4bit.sv" \
+"../../../../PracticeExam.srcs/sources_1/new/MicroCircuit_Task3.sv" \
+"../../../../PracticeExam.srcs/sources_1/new/tb_MicroCircuit_Task3.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

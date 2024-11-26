@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../PracticeExam.srcs/sources_1/new/CircuitsDesign_Task2.sv" \
+"../../../../PracticeExam.srcs/sources_1/new/DFF.sv" \
+"../../../../PracticeExam.srcs/sources_1/new/FA.sv" \
+"../../../../PracticeExam.srcs/sources_1/new/ShiftRegister_5bit.sv" \
+"../../../../PracticeExam.srcs/sources_1/new/counter.sv" \
+"../../../../PracticeExam.srcs/sources_1/new/tb_CircuitsDesign_Task2.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

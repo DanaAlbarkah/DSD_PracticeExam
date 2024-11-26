@@ -1,0 +1,5 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Sum = 00001
+Done = 1
+$finish called at time : 55 ns : File "/home/it/Chip_Design/CommonCore/DigitalDesign/PracticeExam/PracticeExam.srcs/sources_1/new/tb_CircuitsDesign_Task2.sv" Line 49

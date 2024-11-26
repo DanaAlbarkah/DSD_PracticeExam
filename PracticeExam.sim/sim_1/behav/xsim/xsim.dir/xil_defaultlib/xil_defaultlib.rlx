@@ -1,0 +1,19 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/Chip_Design/CommonCore/DigitalDesign/PracticeExam/PracticeExam.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/Chip_Design/CommonCore/DigitalDesign/PracticeExam/PracticeExam.srcs/sim_1/new/tb_MicroCircuits_Task1.sv,1732619149,systemVerilog,,,,tb_MicroCircuits_Task1,,,,,,,,
+/home/it/Chip_Design/CommonCore/DigitalDesign/PracticeExam/PracticeExam.srcs/sources_1/new/Adder_4bit.sv,1732623125,systemVerilog,,/home/it/Chip_Design/CommonCore/DigitalDesign/PracticeExam/PracticeExam.srcs/sources_1/new/MicroCircuit_Task3.sv,,Adder_4bit,,,,,,,,
+/home/it/Chip_Design/CommonCore/DigitalDesign/PracticeExam/PracticeExam.srcs/sources_1/new/CircuitsDesign_Task2.sv,1732650903,systemVerilog,,/home/it/Chip_Design/CommonCore/DigitalDesign/PracticeExam/PracticeExam.srcs/sources_1/new/DFF.sv,,CircuitsDesign_Task2,,,,,,,,
+/home/it/Chip_Design/CommonCore/DigitalDesign/PracticeExam/PracticeExam.srcs/sources_1/new/DFF.sv,1732649213,systemVerilog,,/home/it/Chip_Design/CommonCore/DigitalDesign/PracticeExam/PracticeExam.srcs/sources_1/new/FA.sv,,DFF,,,,,,,,
+,,,,/home/it/Chip_Design/CommonCore/DigitalDesign/PracticeExam/PracticeExam.srcs/sources_1/new/ShiftRegister_5bit.sv,,FA,,,,,,,,
+/home/it/Chip_Design/CommonCore/DigitalDesign/PracticeExam/PracticeExam.srcs/sources_1/new/MicroCircuit_Task3.sv,1732623051,systemVerilog,,/home/it/Chip_Design/CommonCore/DigitalDesign/PracticeExam/PracticeExam.srcs/sources_1/new/tb_MicroCircuit_Task3.sv,,MicroCircuit_Task3,,,,,,,,
+/home/it/Chip_Design/CommonCore/DigitalDesign/PracticeExam/PracticeExam.srcs/sources_1/new/MicroCircuits_Task1.sv,1732617034,systemVerilog,,/home/it/Chip_Design/CommonCore/DigitalDesign/PracticeExam/PracticeExam.srcs/sim_1/new/tb_MicroCircuits_Task1.sv,,MicroCircuits_Task1,,,,,,,,
+/home/it/Chip_Design/CommonCore/DigitalDesign/PracticeExam/PracticeExam.srcs/sources_1/new/MicroCircuits_Task2.sv,1732620556,systemVerilog,,/home/it/Chip_Design/CommonCore/DigitalDesign/PracticeExam/PracticeExam.srcs/sources_1/new/Register.sv,,MicroCircuits_Task2,,,,,,,,
+/home/it/Chip_Design/CommonCore/DigitalDesign/PracticeExam/PracticeExam.srcs/sources_1/new/Register.sv,1732619733,systemVerilog,,/home/it/Chip_Design/CommonCore/DigitalDesign/PracticeExam/PracticeExam.srcs/sources_1/new/tb_MicroCircuits_Task2.sv,,Register,,,,,,,,
+,,,,/home/it/Chip_Design/CommonCore/DigitalDesign/PracticeExam/PracticeExam.srcs/sources_1/new/counter.sv,,ShiftRegister_5bit,,,,,,,,
+,,,,/home/it/Chip_Design/CommonCore/DigitalDesign/PracticeExam/PracticeExam.srcs/sources_1/new/tb_CircuitsDesign_Task2.sv,,counter,,,,,,,,
+,,,,,,tb_CircuitsDesign_Task2,,,,,,,,
+/home/it/Chip_Design/CommonCore/DigitalDesign/PracticeExam/PracticeExam.srcs/sources_1/new/tb_MicroCircuit_Task3.sv,1732622860,systemVerilog,,,,tb_MicroCircuit_Task3,,,,,,,,
+/home/it/Chip_Design/CommonCore/DigitalDesign/PracticeExam/PracticeExam.srcs/sources_1/new/tb_MicroCircuits_Task2.sv,1732620501,systemVerilog,,,,tb_MicroCircuits_Task2,,,,,,,,
